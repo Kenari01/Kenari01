@@ -1,41 +1,77 @@
-# Bienvenue, je suis Kenari Cheng (Kenari01) ! 👋
+<!-- Bannière d'en-tête avec vague animée (thème violet) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7000FF&height=200&section=header&text=Kenari%20Cheng&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Étudiant%20B1%20chez%20CODA%20|%20Développeur%20en%20devenir&descAlignY=58&descSize=18" width="100%" />
 
-Bienvenue sur mon profil GitHub. Je suis actuellement **Étudiant B1 chez CODA** en France. 🇫🇷
+<!-- Sous-titre sous forme de badge fiable -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Bienvenue_sur_mon_GitHub-Passionné_par_le_C_&_le_Web-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="Bienvenue" />
+</div>
 
-> "Toujours prêt à coder, apprendre et relever de nouveaux défis !"
-
----
+<br/>
 
 ### 🚀 À propos de moi
 
-* 💻 Passionné par le développement et les sciences, j'explore différentes technologies à travers mes projets étudiants et personnels.
-* 🎓 En pleine formation pour devenir un développeur accompli chez CODA.
-* 🌍 Basé en France, avec un regard tourné vers le monde de la tech.
+* 🎓 **Étudiant B1 chez CODA** en France, j'apprends les bases solides de l'informatique.
+* 💻 Je construis mes compétences pas à pas, du bas niveau en **C** jusqu'au développement web en **JavaScript**.
+* 🎯 **Objectif :** Maîtriser l'architecture logicielle et créer des projets utiles et propres.
+* ⚡ **Fun fact :** J'aime autant résoudre des bugs complexes que personnaliser mon environnement de code.
+
+---
+
+### 💻 Ma Stack Technique
+
+<div align="center">
+  
+  **Langages maîtrisés & en cours d'apprentissage**
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=c,js,html,css,git,github,vscode&theme=dark" />
+  
+</div>
 
 ---
 
 ### 🛠️ Mes projets mis en avant
 
-Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
+<div align="center">
 
-* **[coda-bnv-calculatrice](https://github.com/Kenari01/coda-bnv-calculatrice)** : Une calculatrice développée en C.
-* **[projet-N-magique](https://github.com/Kenari01/projet-N-magique)** : Un projet mystérieux et magique en C !
-* **[Tic-Tac-Toe](https://github.com/Kenari01/Tic-Tac-Toe)** : Le grand classique, programmé en C.
-* **[Code-Express---Le-Code-de-la-Route-Multilingue](https://github.com/Kenari01/Code-Express---Le-Code-de-la-Route-Multilingue)** : Une application d'apprentissage du code de la route, réalisée en JavaScript.
+| Projet | Description | Techno |
+| :--- | :--- | :---: |
+| **[coda-bnv-calculatrice](https://github.com/Kenari01/coda-bnv-calculatrice)** | Une calculatrice fonctionnelle développée en ligne de commande. | ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) |
+| **[projet-N-magique](https://github.com/Kenari01/projet-N-magique)** | Jeu de logique et d'algorithmique autour du nombre mystère. | ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) |
+| **[Tic-Tac-Toe](https://github.com/Kenari01/Tic-Tac-Toe)** | Le célèbre jeu du morpion codé de zéro. | ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) |
+| **[Code-Express Multilingue](https://github.com/Kenari01/Code-Express---Le-Code-de-la-Route-Multilingue)** | Application interactive pour réviser le code de la route en plusieurs langues. | ![JS](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) |
 
----
-
-### 📈 Mes statistiques
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenari01&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenari01&layout=compact&theme=tokyonight)
+</div>
 
 ---
 
-### 🌐 Retrouvez-moi ailleurs
+### 📈 Mes statistiques GitHub
 
-* [LinkedIn](https://www.linkedin.com/in/kenari-cheng/) 
-* [Mon Portfolio](#) 
+<div align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=Kenari01&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenari01&layout=compact&theme=radical&hide_border=true" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kenari01&theme=react-dark&bg_color=0D1117&color=A855F7&line=7000FF&point=FFFFFF&area=true&hide_border=true" width="95%" />
+</div>
 
 ---
-*N'hésite pas à explorer mes dépôts et à me contacter pour discuter de code ou d'opportunités !*
+
+### 🌐 Me contacter
+
+<div align="center">
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-7000FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:ton.email@exemple.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<!-- Pied de page assorti à la bannière -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7000FF&height=100&section=footer" width="100%" />
