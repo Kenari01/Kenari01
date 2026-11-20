@@ -1,4 +1,4 @@
-# Salut, je suis Kenari Cheng (Kenari01) ! 👋
+# Bienvenue, je suis Kenari Cheng (Kenari01) ! 👋
 
 Bienvenue sur mon profil GitHub. Je suis actuellement **Étudiant B1 chez CODA** en France. 🇫🇷
 
