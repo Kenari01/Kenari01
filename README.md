@@ -62,13 +62,13 @@
 ### 🌐 Me contacter
 
 <div align="center">
-  <a href="https://www.linkedin.com">
+  <a href="https://www.linkedin.com/in/kenari-cheng/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-7000FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="mailto:ton.email@exemple.com">
+  <a href="mailto:kenari.cheng@icloud.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
