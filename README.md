@@ -3,7 +3,7 @@
 
 <!-- Sous-titre sous forme de badge fiable -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Bienvenue_sur_mon_GitHub-Passionné_par_le_C_&_le_Web-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="Bienvenue" />
+  <img src="https://img.shields.io/badge/Bienvenue_sur_mon_GitHub-Passionné_par_les_sciences_&_le_Web-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="Bienvenue" />
 </div>
 
 <br/>
