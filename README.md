@@ -13,7 +13,7 @@
 * 🎓 **Étudiant B1 chez CODA** en France, j'apprends les bases solides de l'informatique.
 * 💻 Je construis mes compétences pas à pas, du bas niveau en **C** jusqu'au développement web en **JavaScript**.
 * 🎯 **Objectif :** Maîtriser l'architecture logicielle et créer des projets utiles et propres.
-* ⚡ **Fun fact :** J'aime autant résoudre des bugs complexes que personnaliser mon environnement de code.
+* ⚡ **Fun fact :** J'aime autant les sciences que résoudre des bugs complexes que personnaliser mon environnement de code.
 
 ---
 
